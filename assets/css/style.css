@@ -1149,6 +1149,7 @@ body.nav-active { overflow: hidden; }
   margin-inline: auto;
   border-radius: var(--radius-circle);
   margin-block-end: 15px;
+  border: 2px solid black;
 }
 
 .testi .profile-name {
